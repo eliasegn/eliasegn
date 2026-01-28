@@ -18,7 +18,7 @@ Applied Mathematics student interested in:
 - [Tesis](https://github.com/eliasegn/Tesis)  
   Undergraduate thesis: *Phase-Type Distributions in Population Genetics*.
 
-- [Proyecto I](https://github.com/eliasegn/Proyecto_I)  
+- [Proyecto I](https://github.com/eliasegn/Proyecto-I)  
   Material for Undergraduate Proyect: Parametric Estimation for Geometric Brownian Motion
 
 - [Text2KG](https://github.com/eliasegn/Text2KG)  
