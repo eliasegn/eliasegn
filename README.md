@@ -1,4 +1,4 @@
-## Hi, I'm Elias 👋
+## Hi, I'm Elias
 
 Applied Mathematics student interested in:
 - Probability & Statistics
