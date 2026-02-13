@@ -3,7 +3,6 @@
 Applied Mathematics student interested in:
 - Probability & Statistics
 - Quantitative Finance
-- Machine Learning
 
 ### 🔬 Selected Repositories
 - [Probabilidad I](https://github.com/eliasegn/ProbabilidadI)  
