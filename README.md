@@ -15,7 +15,7 @@ Applied Mathematics student interested in:
   Simulation-based material and code for Stochastic Processes
 
 - [Tesis](https://github.com/eliasegn/Tesis)  
-  Undergraduate thesis: *Phase-Type Distributions in Population Genetics*.
+  Undergraduate thesis: *Distribuciones Tipo Fase para un Modelo de Coalescencia de Tres Alelos*.
 
 - [Proyecto I](https://github.com/eliasegn/Proyecto-I)  
   Material for Undergraduate Proyect: Parametric Estimation for Geometric Brownian Motion
