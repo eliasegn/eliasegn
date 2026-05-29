@@ -11,7 +11,7 @@ Applied Mathematics student interested in:
 - [Probabilidad II](https://github.com/eliasegn/ProbabilidadII)  
   Simulation-based material and code for Probability II.
 
-- [Procesos Estocásticos](https://github.com/eliasegn/ProcesosEstocásticos)  
+- [Procesos Estocásticos](https://github.com/eliasegn/ProcesosI)  
   Simulation-based material and code for Stochastic Processes
 
 - [Tesis](https://github.com/eliasegn/Tesis)  
